@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Iphone 6s", "os": "IOS", "display": "Retina HD display", "resolution": "1334x750 at 326ppi", "camera": "12MP"},
+  {"id": 2, "name": "Iphone 8", "os": "IOS", "display": "Retina HD display", "resolution": "1334x750 at 326ppi", "camera": "12MP"},
+  {"id": 3, "name": "Iphone x", "os": "IOS", "display": "Super Retina HD display", "resolution": "2436x1125 at 458ppi", "camera": "12MP Dual Camera"}
+]
